@@ -1,1 +1,1 @@
-Periodically Rotated Undersampling Spirals and Multi-offset Transformer Reconstruction for CEST MRI
+Periodically Rotated Spiral Sampling and Multi-offset Transformer Reconstruction for CEST MRI
